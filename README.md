@@ -1,0 +1,2 @@
+# PredajKup
+Predaj Kup solution
